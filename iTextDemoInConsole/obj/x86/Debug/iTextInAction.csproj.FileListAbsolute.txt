@@ -1,0 +1,9 @@
+C:\Users\VenvogS\Downloads\iTextDemo\iTextDemo\iTextDemoInConsole\bin\Debug\iTextDemoInConsole.exe.config
+C:\Users\VenvogS\Downloads\iTextDemo\iTextDemo\iTextDemoInConsole\bin\Debug\iTextDemoInConsole.exe
+C:\Users\VenvogS\Downloads\iTextDemo\iTextDemo\iTextDemoInConsole\bin\Debug\iTextDemoInConsole.pdb
+C:\Users\VenvogS\Downloads\iTextDemo\iTextDemo\iTextDemoInConsole\bin\Debug\itextsharp.dll
+C:\Users\VenvogS\Downloads\iTextDemo\iTextDemo\iTextDemoInConsole\obj\x86\Debug\iTextInAction.csprojAssemblyReference.cache
+C:\Users\VenvogS\Downloads\iTextDemo\iTextDemo\iTextDemoInConsole\obj\x86\Debug\iTextInAction.csproj.CoreCompileInputs.cache
+C:\Users\VenvogS\Downloads\iTextDemo\iTextDemo\iTextDemoInConsole\obj\x86\Debug\iTextInAction.csproj.CopyComplete
+C:\Users\VenvogS\Downloads\iTextDemo\iTextDemo\iTextDemoInConsole\obj\x86\Debug\iTextDemoInConsole.exe
+C:\Users\VenvogS\Downloads\iTextDemo\iTextDemo\iTextDemoInConsole\obj\x86\Debug\iTextDemoInConsole.pdb
